@@ -15,5 +15,8 @@ body {
   .box-two {
     background-color: blue;
     border: 0px solid yellow;
+    border-width: 20px;
+    padding: 20px;
+    margin: 20px;
   } 
   
